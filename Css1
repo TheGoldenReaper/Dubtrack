@@ -5,7 +5,7 @@
 #player-controller .right ul li .grab-counter
 { position: relative; top: -.4em; }
 
-#player-controller .right ul li .icon-heart:before { content: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMfyFN6E_Lv6qNGLKMtavxn3sBGIyL2tEjSZEXm1JCoq_dwKMH'); }
+#player-controller .right ul li .icon-heart:before { content: url('https://raw.githubusercontent.com/TheGoldenReaper/Dubtrack/master/images.png'); }
 #player-controller .right ul li .dubup .icon-arrow-up:before { content: url('https://raw.githubusercontent.com/nightbloo/nightbloo.github.io/master/plug/icons/woot.png'); }
 #player-controller .right ul li .dubdown .icon-arrow-down:before { content: url('https://raw.githubusercontent.com/nightbloo/nightbloo.github.io/master/plug/icons/meh.png'); }
 
